@@ -1,1 +1,3 @@
 # Q3-class-assignment-4
+
+This assignment contains a collection of Python practice exercises focused on mastering core programming concepts such as lists, dictionaries, loops, and conditional statements. It includes hands-on mini-projects like a shopping discount calculator, a secret number guessing game, student grade management system, pattern printing with loops, and various dictionary operations. Through these activities, learners explore how to structure data using lists and dictionaries, apply control flow for decision-making, and build small interactive programs that reflect real-world logic. This practical approach helps reinforce fundamental skills and builds a strong foundation in Python programming.
